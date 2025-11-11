@@ -1,1 +1,0 @@
-As a new coder, I really liked this repository for hangman because it worked well, it used simple and concise language that I was able to follow easily, and included comments so that even if I didn't understand something, I could read about what the code was doing and learn how it worked.
